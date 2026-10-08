@@ -40,7 +40,7 @@
 ### 📬 Connect with Me
 
 <p align="left">
-  <a href="mailto:youssef.ramzy.dev@gmail.com">
+  <a href="mailto:ramzy.dev@proton.me">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/youssef-ramzy0/" target="_blank">
